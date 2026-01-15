@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm a passionate CS Student focused on DSA, wibe coding, Research Tech fields and Learning AI Tools.
+Hi, I’m AS 👋
+CS student | DSA & competitive programming | Research-driven tech | Exploring AI tools | Lifelong learner 🚀| AI Tools & LLMs
 
 
 ## 🌐 Socials:
