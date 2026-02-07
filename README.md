@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 Hi, I’m AS 👋🏅                                                                                           
 CS student | DSA & competitive programming | Research-driven tech | Exploring AI tools | Lifelong learner 🚀| AI Tools & LLMs
 
