@@ -1,6 +1,6 @@
 Hi,
 I’m Aryan Surya S 👋🏅                                                                                        
-I am a CSE student at Dayananda Sagar University.                                          
+I am a CSE student at Dayanansda Sagar University.                                          
 DSA & competitive programmer⏳ | Research-driven tech | Exploring AI tools | Lifelong learner 🚀 | AI Tools & LLMs | Content Creator🎬🏷
 
 
