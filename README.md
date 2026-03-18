@@ -4,8 +4,7 @@ Mainly Focused on
 DSA & Competitive Programmer| Prompt Engineering | AI Tools & LLMs | Content Creator🎬🏷
 
 
-##
-**Languages**                
+# 🌐 SOCIAL                
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/aryansuryas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@aryansuryasgowda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/aryansuryas) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@cassg-tech) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryansurya752006@gmail.com) 
 
 # 💻 Tech Stack:
