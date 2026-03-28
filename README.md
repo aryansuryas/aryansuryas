@@ -10,7 +10,8 @@ Hi... I'm Aryan👋🏅 <br>I am a CSE Student at Dayananda Sagar University �
   
 # 📊 GitHub Stats:
  
-![](https://github-readme-stats.vercel.app/api?username=aryansuryas&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?user=aryansuryas&theme=dark&hide_border=false)
+username=aryansuryas&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=aryansuryas&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?user=aryansuryas&theme=dark&hide_border=false)
 username=aryansuryas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
