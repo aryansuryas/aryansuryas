@@ -9,7 +9,8 @@ Hi... I'm Aryan👋🏅 <br>I am a CSE Student at Dayananda Sagar University �
  
   
 # 📊 GitHub Stats:
- 
+ [![GitHub Streak](https://streak-stats.demolab.com)](https://git.io/streak-stats)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
