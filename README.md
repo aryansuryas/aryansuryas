@@ -11,5 +11,4 @@ Hi... I'm Aryan👋🏅 <br>I am a CSE Student at Dayananda Sagar University �
 # 📊 GitHub Stats:
 <!--https://streak-stats.demolab.com/demo<br-->
 ![GitHub Streak](https://streak-stats.demolab.com?user=aryansuryas&theme=dark&border_radius=6&card_width=500)
-
-]
+ 
