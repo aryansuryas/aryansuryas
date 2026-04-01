@@ -1,4 +1,4 @@
-Hi... I'm Aryan Surya,👋🏅 <br> CSE Student at Dayananda Sagar University 🏫 <br>Mainly Focused on DSA & Competitive Programmer| Prompt Engineering | AI Tools & LLMs | Content Creator🎬🏷
+Hi... I'm Aryan Surya 👋🏅 <br> CSE Student at Dayananda Sagar University 🏫 <br>Mainly Focused on DSA & Competitive Programmer| Prompt Engineering | AI Tools & LLMs | Content Creator🎬🏷
 
 
 ## 🌐 Socials:
