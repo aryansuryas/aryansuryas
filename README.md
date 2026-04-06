@@ -132,10 +132,4 @@
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:1a1b27&height=120&section=footer" />
-
-*"First, solve the problem. Then, write the code."*
-
-</div>
+ 
