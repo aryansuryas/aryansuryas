@@ -110,7 +110,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=aryansuryas&theme=tokyo-night&border_radius=8&card_width=500)
+![GitHub Streak](https://streak-stats.demolab.com?user=aryansuryas&theme=darkt&border_radius=8&card_width=500)
 
 <br/>
 
