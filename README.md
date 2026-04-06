@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=200&section=header&text=Aryan%20Surya%20S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CSE%20Student%20%7C%20Developer%20%7C%20Creator&descAlignY=55&descColor=a9b1d6" />
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=200&section=header&text=Aryan%20Surya%20S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CSE%20Student%20%7C%20Developer%20%7C%20Creator&descAlignY=55&descColor=a9b1d6](https://capsule-render.vercel.app/api?type=speech&height=222&color=gradient&text=Aryan%20Surya%20S&descAlignY=0&descAlign=33&descSize=111&animation=twinkling&fontAlign=50&fontSize=99&fontColor=bla&textBg=false&reversal=false&section=header&rotate=0)" />
 
 </div>
 
