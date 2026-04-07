@@ -114,7 +114,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=aryansuryas&theme=dark&border_radius=6&card_width=500)
 <br/>
 
-![Aryan's GitHub Stats](https://github-readme-dd
 </div>
 
 ---
