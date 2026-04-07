@@ -116,7 +116,7 @@
 
 ![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryansuryas&show_icons=true&theme=tokyo-night&border_radius=8&hide_border=false)
 &nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryansuryas&layout=compact&theme=tokyo-night&border_radius=8&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryansuryas&layout=compact&theme=tokyo-night&border_radius=8&hide_border=false) if nr then keave
 
 </div>
 
