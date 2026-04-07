@@ -114,10 +114,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=aryansuryas&theme=dark&border_radius=6&card_width=500)
 <br/>
 
-![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryansuryas&show_icons=true&theme=tokyo-night&border_radius=8&hide_border=false)
-&nbsp;
-![Top Languages](https:/nr
-
+![Aryan's GitHub Stats](https://github-readme-dd
 </div>
 
 ---
