@@ -106,9 +106,7 @@
 <img src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/-ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/-Emacs-7F5AB6?style=flat-square&logo=gnuemacs&logoColor=white" />
-<img align="left" alt="Google Cloud" width="40" src="https://vectorlogo.zone" />
-
-
+  
 ---
 
 ## 📊 GitHub Stats
