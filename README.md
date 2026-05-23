@@ -106,17 +106,10 @@
 <img src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/-ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/-Emacs-7F5AB6?style=flat-square&logo=gnuemacs&logoColor=white" />
-  <!-- Cursor -->
 <img src="https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
-
-<!-- ChatGPT -->
-src="https://img.shields.io/badge/-ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white"
-
-<!-- Claude -->
-src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"
-
-<!-- Lovable -->
-src="https://img.shields.io/badge/-Lovable-FF4D8D?style=flat-square&logo=heart&logoColor=white"
+< img src="https://img.shields.io/badge/-ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white" />
+< img src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+< img src="https://img.shields.io/badge/-Lovable-FF4D8D?style=flat-square&logo=heart&logoColor=white" />
 
 ---
 
