@@ -108,6 +108,7 @@
 <img src="https://img.shields.io/badge/-ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/-Lovable-FF4D8D?style=flat-square&logo=heart&logoColor=white" />
+![Grok](https://img.shields.io/badge/-Grok-000000?style=flat-square&logo=x&logoColor=white)
 
 ---
 
