@@ -6,7 +6,7 @@
 
 ---
 
-### 👋 Hey there, I'm Aryan Surya S
+### 👋 Hey there, I'm Aryan Surya S.
 
 > **CSE Student @ Dayananda Sagar University** 🏫
 > Passionate about building things, breaking things, and learning from both.
