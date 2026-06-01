@@ -117,7 +117,7 @@
 <div align="center">
  
 <!--https://streak-stats.demolab.com/demo<br/>-->
-![GitHub Streak](https://streak-stats.demolab.com?user=aryansuryas&theme=dark&border_radius=6&card_width=500)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aryansuryas&theme=dark)](https://git.io/streak-stats)
 <br/>
 
 </div>
