@@ -14,7 +14,7 @@
 - 🧠 Focused on **DSA & Competitive Programming**
 - 🤖 Deep interest in **Prompt Engineering, AI Tools & LLMs**
 - 🎬 **Content Creator** — sharing tech, tips & tutorials
-- 🌱 Currently exploring **Full Stack Development** (React · Firebase · Supabase)
+- 🌱 Currently exploring **DSA** ( C++ )
 
 ---
 
