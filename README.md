@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src=  "https://capsule-render.vercel.app/api?type=rect&height=200&color=gradient&customColorList=0,2,2,5,30&text=Aryan%20Surya%20S%0A&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=CSE%20Student%20%7C%20Developer%20%7C%20Creator&descSize=18&descAlign=50&descAlignY=68&animation=fadeIn&section=header" />
 <!-->
