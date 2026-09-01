@@ -117,9 +117,9 @@
 <div align="center">
  
 <!--https://streak-stats.demolab.com/demo<br/>-->
-![GitHub Streak](https://streak-stats.demolab.com/?user=aryansuryas)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=aryansuryas)]
 </div>
-
+<!--(https://git.io/streak-stats)-->
 ---
 
  <!--  https://capsule-render.vercel.app/ -->
